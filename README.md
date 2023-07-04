@@ -1,6 +1,6 @@
 # ELIAS D. GIJON VAZQUEZ
 
-Desarrollador de Software en Formación | Apasionado por la Tecnología y el Aprendizaje
+Ingeniero en Tecnologías de la Información y Comunicación | Apasionado por la Tecnología y el Aprendizaje
 
 ## Perfil Profesional
 Soy un entusiasta de la tecnología en busca de oportunidades para desarrollar mis habilidades como desarrollador de software. Mi objetivo es adquirir experiencia y conocimientos prácticos en el campo, y estoy dispuesto a enfrentar desafíos y aprender de manera continua.
