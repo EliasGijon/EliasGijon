@@ -3,7 +3,7 @@
 Ingeniero en Tecnologías de la Información y Comunicación | Apasionado por la Tecnología y el Aprendizaje
 
 ## Perfil Profesional
-Soy un entusiasta de la tecnología en busca de oportunidades para desarrollar mis habilidades como desarrollador de software. Mi objetivo es adquirir experiencia y conocimientos prácticos en el campo, y estoy dispuesto a enfrentar desafíos y aprender de manera continua.
+Profesional versátil capaz de desenvolverse en desarrollo web, móvil y de escritorio, implementación y administración de aplicaciones y servicios en redes y computo en la nube, manejo de base de datos relacionales, soporte a equipos de computo. Con amplios conocimientos y herramientas para afrontar cualquier fase en la construcción de un software.
 
 Mis áreas de interés y conocimientos incluyen:
 - Desarrollo web utilizando HTML, CSS y JavaScript.
