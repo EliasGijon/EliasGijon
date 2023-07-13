@@ -13,11 +13,11 @@ Mis áreas de interés y conocimientos incluyen:
 - Soporte y mantenimiento de equipos de cómputo, solución de problemas técnicos y asistencia a usuarios.
 - Familiaridad con herramientas y tecnologías populares, como Git y control de versiones.
 ## Proyectos Personales
-- Decimath-calculator: En colaboración con [[EDUARDOELIASH](https://github.com/EDUARDOELIASH)], creamos una aplicación en Java llamada "Decimath-calculator". Esta aplicación está diseñada para realizar cálculos matemáticos complejos, utilizando conceptos de programación orientada a objetos.
-- Reports_with_AzureDB_Jaspersoft_Java: Creé una pequeña aplicación en Java para generar reportes de consultas a una Base de datos en la nube con base en fechas escogidas por el usuario, utilizando Jasperreport.
-- Papeleria-Estrella: En colaboración con [[EDUARDOELIASH](https://github.com/EDUARDOELIASH)], creamos una aplicación en Java llamada "Papeleria-Estrella". Esta aplicación está diseñada para realizar control de Inventario (consultas e ingreso de datos) de una papeleria con una base de datos relacional de forma local (MySQL), utilizando conceptos de programación orientada a objetos.
+- [`Decimath-calculator`](https://github.com/EDUARDOELIASH/Decimath-calculator): En colaboración con [EDUARDOELIASH](https://github.com/EDUARDOELIASH), creamos una aplicación en Java llamada "Decimath-calculator". Esta aplicación está diseñada para realizar cálculos matemáticos complejos, utilizando conceptos de programación orientada a objetos.
+- [`Reports_with_AzureDB_Jaspersoft_Java`](https://github.com/EliasGijon/Reports_with_AzureDB_Jaspersoft_Java): Creé una pequeña aplicación en Java para generar reportes de consultas a una Base de datos en la nube con base en fechas escogidas por el usuario, utilizando Jasperreport.
+- Papeleria-Estrella: En colaboración con [EDUARDOELIASH](https://github.com/EDUARDOELIASH) `#FFFFFF`, creamos una aplicación en Java llamada "Papeleria-Estrella". Esta aplicación está diseñada para realizar control de Inventario (consultas e ingreso de datos) de una papeleria con una base de datos relacional de forma local (MySQL), utilizando conceptos de programación orientada a objetos.
 - AETEC: Creé una aplicación móvil de Java en Android Studio enfocada en las Actividades Extraescolares impartidas por mi universidad con uso de Arrays y envio de correo electronico por SMTP.
-- Clone-Google: En colaboración con [[Aleck-450](https://github.com/Aleck-450)], desarrollamos un proyecto llamado "Clone-Google". Se trata de un sitio web interactivo creado utilizando HTML, CSS y JavaScript, Nuestro objetivo era recrear la apariencia y funcionalidad básica de la página de búsqueda de Google. 
+- Clone-Google: En colaboración con @Aleck-450, desarrollamos un proyecto llamado "Clone-Google". Se trata de un sitio web interactivo creado utilizando HTML, CSS y JavaScript, Nuestro objetivo era recrear la apariencia y funcionalidad básica de la página de búsqueda de Google. 
 
 ## Educación y Cursos
 #### Tecnológico Nacional de México, Campus Reynosa
@@ -34,8 +34,8 @@ Técnico en Programación
 - Herramientas: Git, GitHub
 - Computación en la nube: Azure, Google Cloud
 ## Enlaces Externos
-[[LinkedIn](https://www.linkedin.com/in/elias-gijon/)] 
-[[GitHub](https://github.com/EliasGijon)]
+[LinkedIn](https://www.linkedin.com/in/elias-gijon/) 
+[GitHub](https://github.com/EliasGijon)
 ## Contacto
 Correo electrónico: zc.elias.gijon@gmail.com
 
